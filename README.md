@@ -1,4 +1,4 @@
- 🎨 Figma Daily UI Challenge – Tejashree Trivedi
+ 🎨 Figma Daily UI Challenge – Tejashree
 
 Welcome to my **Figma Daily UI Challenge Repository**!  
 Every day, I create a new user interface design in Figma to improve my UI/UX skills and explore creative layouts.
@@ -23,10 +23,10 @@ Every day, I create a new user interface design in Figma to improve my UI/UX ski
 
 ## ✅ Daily Progress
 
-| Day | Project             | Description                  | Preview              |
-|-----|---------------------|------------------------------|----------------------|
-| 01  | Sign Up Page        | Modern mobile sign-up screen | [🔗 View](./Day-01-Sign-Up-Page/README.md) |
-| 02  | Coming Soon...      |                              |                      |
+| Day | Project             | Description                  | 
+|-----|---------------------|------------------------------|
+| 01  | Sign Up Page        | Modern mobile sign-up screen | 
+| 02  | Coming Soon...      |                              |
 
 ---
 
