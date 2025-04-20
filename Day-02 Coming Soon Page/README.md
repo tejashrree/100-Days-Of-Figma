@@ -27,4 +27,4 @@ Today’s focus was on practicing layout alignment, consistent typography, and s
 
 ---
 
-✨ Part of my [100 Days of Figma](https://github.com/tejashrrree/100-Days-Of-Figma) challenge.
+✨ Part of my [100 Days of Figma](https://github.com/tejashrree/100-Days-Of-Figma) challenge.
