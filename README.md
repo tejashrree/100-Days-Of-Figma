@@ -23,11 +23,12 @@ Every day, I create a new user interface design in Figma to improve my UI/UX ski
 
 ## ✅ Daily Progress
 
-| Day | Project             | Description                  | 
-|-----|---------------------|------------------------------|
-| 01  | Sign Up Page        | Modern mobile sign-up screen | 
-| 02  | Coming Soon Page    | Clean and minimal UI         |
-| 03  | Coming soon...      |                              |
+| Day | Project             | Description                                          | 
+|-----|---------------------|------------------------------------------------------|
+| 01  | Sign Up Page        | Modern mobile sign-up screen                         | 
+| 02  | Coming Soon Page    | Clean and minimal UI                                 |
+| 03  | Profile Card UI     | Profile card with user info, stats, and social icons |
+| 04  | Coming soon...      |                                                      |
 
 ---
 
